@@ -34,7 +34,7 @@ Flow-meter and the SulfiloggerTM data was combined into one dataset with three c
 ## EDA
 In order to understand the data obtained from each dataset, a short analysis of the data was conducted to develop insight, locate trends and patterns and determine the overall behaviour of the systems.
 
-![alt text](Images/Ueckermünde/Flow &temo dry weather -new 130% zoom.png "Salary by Position")
+![alt text](https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Flow%20%26temo%20dry%20weather%20-new%20130%25%20zoom.png "Salary by Position")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
 
