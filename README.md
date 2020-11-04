@@ -6,7 +6,7 @@ Repo for the temperature-based retention time project
 * Created a tool that could determine the retention times of a wastewater parcel in a pressure pipe using temperature data
 * Tested and calibrated the tool using historical data from a study conducted by the TU Berlin as well as field data from a real pressure pipe system in the town of Ueckermünde, Germany
 
-<img align="left" width="430" height="350" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/pumping%20events%20-%20one%20week.png">
+<img align="left" width="400" height="350" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/pumping%20events%20-%20one%20week.png">
 
 <img align="right" width="400" height="350" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/temp%20%26%20flow%20ART%20hourly.png">
 
@@ -39,9 +39,9 @@ Flow-meter and the SulfiloggerTM data was combined into one dataset with three c
 ## EDA
 In order to understand the data obtained from each dataset, a short analysis of the data was conducted to develop insight, locate trends and patterns and determine the overall behaviour of the systems.
 
-<img align="right" width="350" height="300" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20H2S.png">
+<img align="right" width="400" height="350" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20H2S.png">
 
-<img align="left" width="350" height="300" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20temp.png">
+<img align="left" width="400" height="350" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20temp.png">
 
 
 <img align="center" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Flow%20rate%20and%20temp%20peaks%20-%20one%20day.png">
@@ -81,3 +81,4 @@ Four different evaluation methods were used to compare the results:
 *	**Linear Regression**: R² = 0.97 ( Dataset A), and 0.75 (Dataset B)
 * **Root Mean Sqaured Error (RMSE)**: RMSE = 11% (Dataset A), RMSE = 14% (Dataset B)
 
+0
