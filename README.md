@@ -6,10 +6,13 @@ Repo for the temperature-based retention time project
 * Created a tool that could determine the retention times of a wastewater parcel in a pressure pipe using temperature data
 * Tested and calibrated the tool using historical data from a study conducted by the TU Berlin as well as field data from a real pressure pipe system in the town of Ueckermünde, Germany
 
-<img align="left" width="480" height="400" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/pumping%20events%20-%20one%20week.png"> 
+<p align="left">
+  <img width="470" height="400" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/pumping%20events%20-%20one%20week.png">
+</p>
 
-<img align="right" width="450" height="400" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/temp%20%26%20flow%20ART%20hourly.png">
-
+<p align="left">
+  <img width="450" height="400" src="https://https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/temp%20%26%20flow%20ART%20hourly.png">
+</p>
 
 
 ## Code and Resources Used 
