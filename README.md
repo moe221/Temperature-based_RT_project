@@ -38,13 +38,7 @@ Flow-meter and the SulfiloggerTM data was combined into one dataset with three c
 ## EDA
 In order to understand the data obtained from each dataset, a short analysis of the data was conducted to develop insight, locate trends and patterns and determine the overall behaviour of the systems.
 
-<img align="right" width="450" height="400" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20H2S.png">
-
-<img align="left" width="450" height="400" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Boxplot%20temp.png">
-
-
-
-<img align="center" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/Flow%20rate%20and%20temp%20peaks%20-%20one%20day.png">
+<img align="center" src="https://github.com/moe221/Temperature-based_RT_project/blob/main/Images/Ueckerm%C3%BCnde/plot.png">
 
 
 ## Feature engineering (Refernce retention times)
