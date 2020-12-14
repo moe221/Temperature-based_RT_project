@@ -55,7 +55,7 @@ Four different evaluation methods were used to compare the results:
 *	**Probability analysis** – likelihood of temperature change to occure given that a pumping event has already occurred 
 *	**t-test** – To see if temperature based results and reference results a significantlly different from each other.
 *	**Linear Regression** – To see how well temperature based results can predict reference results.
-* **Root Mean Sqaured Error (RMSE)** - To have an error metric when directlly comparing temperature based results to the reference results
+* **Root Mean Sqaured Precent Error (RMSPE)** - To have an error metric when directlly comparing temperature based results to the reference results
 
 **Dataset A results**
 <p align="center">
@@ -73,6 +73,6 @@ Four different evaluation methods were used to compare the results:
 *	**Probability analysis** : 98% probability (Dataset A), 81% probability (Dataset B)
 *	**t-test**: p- value = 0.92 (Dataset A) and 0.61 (Dataset B) --> no significant difference found
 *	**Linear Regression**: R² = 0.97 ( Dataset A), and 0.75 (Dataset B)
-* **Root Mean Sqaured Error (RMSE)**: RMSE = 11% (Dataset A), RMSE = 14% (Dataset B)
+* **Root Mean Sqaured Precent Error (RMSPE)**: RMSPE = 11% (Dataset A), RMSPE = 14% (Dataset B)
 
 0
